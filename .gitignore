@@ -1,0 +1,13 @@
+# Derleme çıktıları
+/bin/
+*.class
+
+# IDE ve geçici dosyalar
+.idea/
+*.iml
+.project
+.settings/
+.vscode/
+
+# Hedef klasörler
+/target/
